@@ -1,5 +1,5 @@
 _repo: The-Ordeal-of-Richard-Feverel-Volume-3_4408
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -28,5 +28,6 @@ subjects:
 - !lcc 'PR'
 - !lcsh 'Domestic fiction'
 - !lcsh 'English fiction -- 19th century'
+- GITenberg
 title: The Ordeal of Richard Feverel — Volume 3
 url: http://www.gutenberg.org/ebooks/4408
